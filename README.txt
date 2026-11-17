@@ -12,7 +12,7 @@ browser becomes a controller for PowerPoint, PDF readers, Word and more.
 Nothing to install on the phone.
  
 *** VIBE-CODED WITH AI ***
-This app is vibe-coded with Claude AI (Anthropic) and GitHub Copilot.
+This app is vibe-coded with Claude AI (Anthropic) and Copilot AI.
 It was built by describing what I wanted and iterating with AI
 assistants. Expect rough edges, review the code before trusting it, and
 please open an issue if something breaks.
@@ -58,9 +58,9 @@ Phone controller
     cooldown).
  
 Windows app
-  - Modern, minimal window (does not open fullscreen).
+  - Modern, minimal window (it is set to not open in fullscreen).
   - Phone list on the left, QR code on the right.
-  - Use as controller, Rename, Forget.
+  - Buttons: Use as controller, Rename, Forget.
  
 Works with
   - PowerPoint / LibreOffice Impress (arrow keys, F5 to start)
@@ -74,7 +74,6 @@ Works with
   REQUIREMENTS
 ---------------------------------------------------------------------
   - Windows 10 or 11
-  - Python 3.10 or newer (only if running from source)
   - PC and phone on the same WiFi network
   - A phone with a modern browser (Chrome, Safari, Edge, Brave...)
  
