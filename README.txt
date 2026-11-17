@@ -15,7 +15,7 @@ Nothing to install on the phone.
 This app is vibe-coded with Claude AI (Anthropic) and Copilot AI.
 It was built by describing what I wanted and iterating with AI
 assistants. Expect rough edges, review the code before trusting it, and
-please open an issue if something breaks.
+please open an issue if something breaks. Thank you <3
  
  
 ---------------------------------------------------------------------
