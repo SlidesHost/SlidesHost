@@ -10,13 +10,12 @@ SlidesHost is a Windows app that turns your phone into a presentation
 remote. Scan a QR code, approve the phone on your PC, and your phone's
 browser becomes a controller for PowerPoint, PDF readers, Word and more.
 Nothing to install on the phone.
- 
+
 *** VIBE-CODED WITH AI ***
-This app is vibe-coded with Claude AI (Anthropic) and Copilot AI.
+Slideshost is a completely vibe-coded app, developed with Claude AI (Anthropic) and Copilot AI.
 It was built by describing what I wanted and iterating with AI
 assistants. Expect rough edges, review the code before trusting it, and
 please open an issue if something breaks. Thank you <3
- 
  
 ---------------------------------------------------------------------
   !! WINDOWS SMARTSCREEN WARNING (unsigned .exe) !!
